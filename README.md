@@ -1,7 +1,6 @@
 ## Kevin Nyamwaro
-#### =================
-#### Software developer
-#### =================
+##### Software developer
+
 
 ### Languages
 
@@ -9,13 +8,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 
 
@@ -33,4 +31,23 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
 
+
+### APIs
+
+![tRPC](https://img.shields.io/badge/-tRPC-000?&logo=tRPC)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
+
+
+### Unit Testing
+
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Unittest](https://img.shields.io/badge/-Unittest-000?&logo=Unittest)
+
+### State Management
+
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
