@@ -1,8 +1,8 @@
 # Kevin Nyamwaro
 #### Full-Stack Engineer | Cloud Solutions Developer | AI/ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-bogonko)
+[![Email](https://img.shields.io/badge/-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogonkonyamwaro@gmail.com)
 
 ## 👨‍💻 Professional Profile
 
